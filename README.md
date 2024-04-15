@@ -64,7 +64,8 @@ Just for clarification, an item can never have its Worth increase above 50, but 
 Spend as much time as you feel comfortable spending. Typically, you can expect to commit at least 1 hour towards your solution. We look forward to seeing the completed project. Please return all of the files that you create when submitting your solution.
 
 ## Languages 
-- Java
+- [Java](languages/java/)
+- [Python](languages/python/)
 - Don't see the specific language you are looking for? \
   Feel free to do the reimplementation or we can generate and provide you with the initial source code in your desired language. \
   Just be sure to reach out to your point of contact if you would like it provided instead.

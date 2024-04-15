@@ -1,6 +1,6 @@
 private List < Item > items = new ArrayList < > ();
 
-public Main() {
+public Storefront() {
   items.add(new Item("Aluminum Shackles", 10, 20));
   items.add(new Item("Gold", 2, 50));
   items.add(new Item("Plutonium Pinball Parts", 5, 7));
