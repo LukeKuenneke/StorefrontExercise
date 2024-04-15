@@ -2,14 +2,13 @@
 
 ### Please Note 
 
-Interview anxiety is a common experience, so please notify any team member if you or someone else needs a break or wishes to end the exercise. \
-We aim to create a supportive and energizing environment where everyone can work comfortably.
+Interview anxiety is a common experience, so please notify any team member if you or someone else needs a break or wishes to end the exercise. We aim to create a supportive and energizing environment where everyone can work comfortably.
 
 ### Exercise Guidelines and Rules
 
 #### General
 
-- This phase of the interview process can be passed without fully solving the exercise, software is never finished.
+- This phase of the interview process can be passed without fully solving the exercise, software is never finished
 - You are being evaluated on:
     - How you approach problem solving
     - How you apply software engineering best practices to ensure quality is baked into your solution \
@@ -17,12 +16,12 @@ We aim to create a supportive and energizing environment where everyone can work
 - Please note and share your ideas as time may limit your ability to implement them into a solution
 - All resources you have available to you are at your disposal
 - Where you deem appropriate, you can modify the initial source code provided
-- We prefer that all participants utilize a language they are unfamiliar with or one they are very comfortable with.
+- We prefer that all participants utilize a language they are unfamiliar with or one they are very comfortable with
 - Please do not hesitate to reach out to your point of contact if you have any questions
 
 #### Take Home
 
-- You are provided as much time as you deem appropriate to develop and submit your solution.
+- You are provided as much time as you deem appropriate to develop and submit your solution
 
 
 #### Pair Programming
@@ -32,7 +31,7 @@ We aim to create a supportive and energizing environment where everyone can work
 - This is a paring exercise and all participants shall participate
 - This is not an observation session of the interviewee
 - A programming language may be selected for you or you may be allowed to utilize any the selected platform offers
-- You have a one hour timebox, the timer will begin when participants are ready.
+- You have a one hour timebox, the timer will begin when participants are ready
 - The timer may be paused during breaks
 
 ## Exercise
