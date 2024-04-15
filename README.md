@@ -61,7 +61,7 @@ Feel free to make any changes to the UpdateWorth method and add any new code as 
 
 Just for clarification, an item can never have its Worth increase above 50, but "Cadmium" is a rare item and as such, its Worth is 80, and it never alters.
 
-Spend as much time as you feel comfortable spending. Typically, you can expect to commit about 1 hour towards your solution. We look forward to seeing the completed project. Please return all of the files that you create when submitting your solution.
+Spend as much time as you feel comfortable spending. Typically, you can expect to commit at least 1 hour towards your solution. We look forward to seeing the completed project. Please return all of the files that you create when submitting your solution.
 
 ## Languages 
 - Java
