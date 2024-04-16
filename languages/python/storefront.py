@@ -1,3 +1,6 @@
+from item import Item
+
+
 class Storefront:
     def __init__(self):
         self.items = []
@@ -24,3 +27,7 @@ class Storefront:
                         item.set_worth(item.get_worth() - item.get_worth())
                     else:
                         item.set_worth(item.get_worth() - 1)
+
+
+if __name__ == "__main__":
+    sf = Storefront()
